@@ -26,3 +26,10 @@ scratch/
 .env
 
 /scratch/
+
+.codegraph/
+
+# Temporary audit and regression reports
+*_report.json
+*_signoff.json
+*_audit.json
